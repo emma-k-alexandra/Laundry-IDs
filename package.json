@@ -1,9 +1,16 @@
 {
-  "name": "brute-force-laundry",
+  "name": "laundry-cva-ids",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "csc-service-works": "./csc-service-works.sh",
+    "all-laundry": "./all-laundry.sh",
+    "parse:all-laundry": "node ./src/parse-all-laundry.mjs",
+    "parse:csc-service-works": "node ./src/parse-csc-service-works.mjs"
+  },
   "dependencies": {
-    "cypress": "^6.4.0"
+    "csv-writer": "^1.6.0",
+    "cypress": "9.3.1",
+    "n-readlines": "^1.0.1"
   }
 }
