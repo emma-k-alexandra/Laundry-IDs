@@ -2,6 +2,7 @@
 A simple Cypress scraper for getting CVA IDs from CSC Service Works and A.L.L. 
 
 ## Install
+This project uses [Yarn Classic](https://classic.yarnpkg.com/en/docs/install). 
 ```
 yarn
 ```
@@ -39,4 +40,4 @@ Replacing `1501` with the CVA ID you'd like to start scraping at.
 There will be no output to the console unless there is an error.
 
 ## Output
-Found CVA IDs will be in a CSV in the `output` directory, named like `all_laundry_{START ID}_to_{END ID}.cvs`. If an error occurred, there will be no CVS, just a `.log` file with the same name.
+Found CVA IDs will be in a CSV in the `output` directory, named like `all_laundry_{START ID}_to_{END ID}.cvs`. If an error occurred, there will be no CSV, just a `.log` file with the same name.
