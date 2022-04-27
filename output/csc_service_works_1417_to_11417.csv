@@ -1,14 +1,4 @@
 cva,name,street,address
-1407,North Pointe Apts,26151 Lakeshore Blvd,Euclid, OH 44132
-1408,North Pointe Apts,26241 Lakeshore Blvd,Euclid, OH 44132
-1409,Peartree Village Apts,4616 Country La,St Ann, MO 63074
-1410,King Oliver Owners Corp - Room 1,9265 Shore Rd - Room 1,Brooklyn, NY 11209
-1411,68-12 Burns Street,68-12 Burns St,Forest Hills, NY 11375
-1412,68-20 Burns Street,68-20 Burns St,Forest Hills, NY 11375
-1413,68-30 Burns Street,68-30 Burns St,Forest Hills, NY 11375
-1414,68-36 Burns Street,68-36 Burns St,Forest Hills, NY 11375
-1415,68-44 Burns Street,68-44 Burns St,Forst Hills, NY 11375
-1416,Post Legacy,5741 Martin Rd,Plano, TX 75024
 1417,Suburban Terrace Apts,457 Blanchard Terr,Hackensack, NJ 07601
 1418,27 Sherman Avenue,27 Sherman Ave,Jersey City, NJ 07307
 1419,Scotland Green Apts,2662 Scotland Ct,Mounds View, MN 55112
@@ -104,7 +94,6 @@ cva,name,street,address
 1514,Lake Place Homes Assoc,3421 Kent St,Shoreview, MN 55126
 1515,King Oliver Owners Corp - Room 2,9265 Shore Rd - Room 2,Brooklyn, NY 11209
 1516,Kensington Arms,1 Yorkshire Dr,East Windsor, NJ 08520
-1517,Princeton Court,755 Estates Blvd,Mercerville, NJ 08619
 1518,Ocean Green Senior Apts,742 Ocean Ave,Jersey City, NJ 07304
 1520,Granville Beach Condos,6171 N Sheridan Rd,Chicago, IL 60660
 1521,Navy Yard Housing,45 N Elliot Pl,Brooklyn, NY 11205
@@ -914,7 +903,7 @@ cva,name,street,address
 2356,Lauderhill Point,3144 NW 19th St,Lauderhill, FL 33311
 2357,Collection at Riverside,1300 S Pleasant Valley Rd,Austin, TX 78741
 2358,Hermitage Hill Apts,2256 N Beauregard St,Alexandria, VA 22311
-2359,Desert Palm Village - Bldg 12,1215 E Vista Del Cerro Dr,Tempe, AZ 85281
+2359,Spring Meadows Apts,10030 N 43 Ave,Glendale, AZ 85302
 2360,Desert Palm Village - Bldg 9,1215 E Vista Del Cerro Dr,Tempe, AZ 85281
 2361,Desert Palm Village - Fitness Cntr,1215 E Vista Del Cerro Dr,Tempe, AZ 85281
 2363,Pinon Terrace,20 Primrose Cir,Durango, CO 81301
@@ -1025,3 +1014,348 @@ cva,name,street,address
 2473,Van Buren Park Apts,2045 W Jackson Blvd,Chicago, IL 60612
 2474,Summervale Apts,9221 Pagewood Ln,Houston, TX 77063
 2476,Reserve at Santa Fe,941 Calle Mejia,Santa Fe, NM 87501
+2477,Old Hickory Tower Apts,930 Industrial Dr,Old Hickory, TN 37138
+2478,Parc Fontaine Apts,3201 Rue Parc Fontaine,New Orleans, LA 70131
+2479,Mason De Ville,707 Greens Rd,Houston, TX 77060
+2480,Carver Ridge Townhomes,340 Crosstown Blvd,Chaska, MN 55318-2492
+2481,Garden Oaks Tower,3200 Garden Oaks Dr,New Orleans, LA 70114
+2482,Garden Court Apts,100 S Marshall St,Lancaster, PA 17602
+2483,Marina Del Ray (by office),4157 Via Marina (by office),Marina Del Ray, CA 90292
+2484,4121 Dale Rd,4121 Dale Rd,Modesto, CA 95356
+2485,2300 Oakdale Rd,2300 Oakdale Rd,Modesto, CA 95355
+2486,Lodge on El Dorado,265 El Dorado Blvd,Webster, TX 77598
+2488,Seminole Garden Apts,1600 W 5 St,Sanford, FL 32771-1738
+2489,Sulzbacher Village,5455 Springfield Blvd,Jacksonville, FL 32208
+2490,29 Kress Ave,29 Kress Ave,New Rochelle, NY 10801
+2491,114 Clinton St,114 Clinton St,Brooklyn, NY 11201
+2492,Artisan,10025 E Girard Ave,Denver, CO 80231
+2493,Heather Glen Apts,2823 Silent Wood Trail,Rockford, IL 61109
+2494,Lafayette Square,2733 Gehring Dr,Gretna, LA 70053
+2495,Vineyard,6706 N Dysart Rd,Glendale, AZ 85307
+2496,Versailles,6600 Boulevard E,West New York, NJ 07093-4232
+2497,42200 Moraga Rd - B,42200 Moraga Rd,Temecula, CA 92591
+2498,Marina Del Mar Apts,100 Kings Point Dr,Sunny Isles, FL 33160
+2499,Forest Place,1600 NE 135 St,North Miami, FL 33181
+2500,Bayvue Apts,1293 Bayside Ave,Woodbridge, VA 22191
+2501,Shawnee Gardens Condos,717 Tuckahoe RD,Yonkers, NY 10710
+2502,Riviera Parkway Apts,2798 Saint Johns Ave,Jacksonville, FL 32205
+2503,PARKSIDE CONDOMINIUM,10520 Montrose Ave,BETHESDA, MD 20814
+2504,Richmond Chase Apts,8155 Richmond Ave,Houston, TX 77063
+2505,Regal Vista Apts,3475 Pleasantdale Rd,Doraville, GA 30340
+2506,Village at Willow Glen The-San Jose,465 Willow Glen Way,San Jose, CA 95125
+2507,30-02 39 Ave,30-02 39 Ave,Long Island City, NY 11101
+2508,2475 Palisade Ave,2475 Palisade Ave,Bronx, NY 10463
+2509,Chelsea Seventh Condo,170 W 23 St,New York, NY 10011
+2510,Hawthorne North Ridge,6429 The Lakes Dr,Raleigh, NC 27609
+2511,Waters Edge,24101 Lakeshore Blvd,Euclid, OH 44123
+2512,1630 R ST APTS,1630 R ST NW APTS,Washington, DC 20009
+2513,Waters Edge,23951 Lakeshore Blvd,Euclid, OH 44123
+2514,Cambridge Estates,32 Oxford Dr.,Norwich, CT 06360
+2515,Willow Park,1151 Roger Ave,Swansea, IL 62226
+2516,Vistas at 7 Bar Ranch,10500 Cibola lp nw,Albuquerque, NM 87114
+2517,La Entrada Apts,8000 Montgomery Blvd,Albuquerque, NM 87109
+2518,Towers,5400 Montgomery Blvd NE,Albuquerque, NM 87109
+2519,Vila Hermosa,2600 Americare CT NW,Albuquerque, NM 87120
+2520,Pinewood Apts,1401 Pennsylvania ST NE,Albuquerque, NM 87110
+2521,Montgomery Manor,4301 Morris ST NE,Albuquerque, NM 87111
+2522,Pearl at Spring Creek,5600 Gibson Blvd SE,Albuquerque, NM 87108
+2523,Sedona Ridge,3400 Wyoming Blvd NE,Albuquerque, NM 87111
+2524,Valley Stream Village,6400 Glenhurst Dr,Maumee, OH 43357
+2525,French Quarter,2550 S Loop 35,Alvin, TX 77511
+2526,Portfolio Landing Apts,910 Cypress Station Dr,Houston, TX 77090
+2527,Villas Del Encanto,1830 Bandera Rd,San Antonio, TX 78228
+2528,Kenilworth Towers 1,3801 Kenilworth Ave,Bladensburg, MD 20710
+2529,View At Westover Hills Apts,3010 W Loop 1604 N,San Antonio, TX 78251
+2530,Thurber Gate,684 Thurber Dr W,Columbus, OH 43215
+2531,2626 Tunlaw RD NW,2626 Tunlaw RD NW,Washington, DC 20007
+2532,Eagle Point Apts,4401 Morris St NE,Albuquerque, NM 87111
+2533,2711 Henry Hudson,2711 Henry Hudson Pkwy,Riverdale, NY 10463
+2534,Madeira The,7533 38 Ave N,Saint Petersburg, FL 33710
+2535,Tuscan Heights Apts,1635 W 85 Ave,Denver, CO 80260
+2536,10 De Sabla Rd - San Mateo,10 De Sabla Rd,San Mateo, CA 94402
+2537,Riley Towers,650 N Alabama St Tower 1,Indianapolis, IN 46204
+2538,Riley Towers,650 N Alabama St Tower 2,Indianapolis, IN 46204
+2539,Riley Towers,650 N Alabama St Tower 3,Indianapolis, IN 1-9176
+2540,Summit at Keystone,6630 Glenbrook Dr,Indianapolis, IN 46220
+2541,Hunters Ridge,628 Gorman St,Shakopee, MN 55379
+2542,Trump Village Section 4,2928 W 5th St, Room A,Brooklyn, NY 11220
+2543,Trump Village Section 4,2928 W 5th St, Room B,Brooklyn, NY 11220
+2544,Trump Village Section 4,2928 W 5th St, Room C,Brooklyn, NY 11220
+2545,Trump Village Section 4,2928 W 5th St, Room D,Brooklyn, NY 11220
+2546,Stockbridge Court Apts North,45 Willow St,Springfield, MA 01103
+2547,1809 20 St NW,1809 20 St NW,Washington, DC 20009
+2548,Avalon Towers,10 W Broadway,Long Beach, NY 11561
+2549,264 Lexington Ave,264 Lexington Ave,New York, NY 10016
+2550,National Park Club,15 Gramercy Park S,New York, NY 10013
+2551,Greentree Condo 2,590 Broadway,Lynbrook, NY 11563
+2552,Wilshire Pines Apts,208 E Baseline Rd,Tempe, AZ 85283-1241
+2553,Heights At Post Oak The,12500 Dunlap St,Houston, TX 77035
+2554,Winding Trails Apts,10300 S Wilcrest Dr,Houston, TX 77099
+2555,Woodland Ridge Apts,3421 Foxboro Dr,Woodridge, IL 60517
+2556,12895 Uvas Rd,12895 Uvas Rd,Morgan Hill, CA 95037
+2557,Redstone Manor,39 Glenbrook Rd,Stamford, CT 06902
+2559,Lindenwood Gardens,155 81 Howard St, Building-3,Howard Beach, NY 11414
+2560,Lindenwood Gardens,155 81 Howard St, Building-4,Howard Beach, NY 11414
+2561,Lindenwood Gardens,155 81 Howard St, Building-6,Howard Beach, NY 11414
+2562,Lindenwood Gardens,155 81 Howard St, Building-7,Howard Beach, NY 11414
+2563,Lindenwood Gardens,155 81 Howard St, Building-8,Howard Beach, NY 11414
+2564,Lindenwood Gardens,155 81 Howard St, Building-9,Howard Beach, NY 11414
+2565,Lindenwood Gardens,155 81 Howard St, Building-10,Howard Beach, NY 11414
+2566,205 E 77 St,205 E 77 St,New York, NY 10075
+2567,Sherman Hills,300 Parkview Cir,Wilkes Barre, PA 18702
+2568,Limestone Canyon,12118 Walnut Park Xing,Austin, TX 78753
+2569,Detroit City Apts,1431 Washington Blvd,Detroit, MI 48226
+2570,Landmark at Grayson Park Apartment Homes,15501 Bruce B Downs Blvd,Tampa, FL 33647
+2571,150 E 34 St,150 E 34 St,New York, NY 10016
+2572,Hunter Creek Phase,1400 Vine St Building 13,Aspen, CO 81611
+2573,Casa Luna Apts,10343 Sahara Dr,San Antonio, TX 78216
+2574,Casa Del Encanto,10362 Sahara Dr.,San Antonio, TX 78216
+2575,Edgebrook Apts,101 E Edgebrook Dr,Houston, TX 77034
+2576,925 E 14 St,925 E 14 St,Brooklyn, NY 11230
+2577,Cheesman Tower West Condos,1200 Humboldt St,Denver, CO 80218
+2578,South at Parkview Apartment Homes,4944 S Sherwood Forest Blvd,Baton Rouge, LA 70816
+2579,Point Alameda Apts,1380 Ballena Blvd,Alameda, CA 94501
+2580,Lenox Apts,207 Van Vorst St,Jersey City, NJ 07302
+2581,145 Kenilworth Pl,145 Kenilworth Pl,Brooklyn, NY 11210
+2582,The Chelsea Apts,1910 Skidaway Rd,Savannah, GA 31404
+2583,Morgan Park Apts,8902 N 19 Ave,Phoenix, AZ 85021
+2584,Los Prados,832 NW 86 Ave,Plantation, FL 33324
+2585,Lindenwood Gardens,155 81 St, Building- 1,Howard Beach, NY 11414
+2586,Lindenwood Gardens,155 81 St, Building- 5,Howard Beach, NY 11414
+2589,Foothill Place,2260 Foothill Dr, Building A,Salt Lake City, UT 84109
+2590,Belford Towers Apts,6731 New Hampshire Ave, Building 6731,Takoma Park, MD 20912
+2591,Belford Towers Apts,6731 New Hampshire Ave, Building 6735,Takoma Park, MD 20912
+2592,Carling Hotel,1512 N Laselle Dr,Chicago, IL 60610
+2593,Studios at Uptown Apts,245 Lorraine Dr, 229 1st Floor,Altamonte Springs, FL 32714
+2594,Studios at Uptown Apts,245 Lorraine Dr, 230 1st Floor,Altamonte Springs, FL 32714
+2595,Studios at Uptown Apts,245 Lorraine Dr, 260 1st Floor,Altamonte Springs, FL 32714
+2596,2501 Q St NW,2501 Q St NW,Washington, DC 20007
+2597,Chancery Apts,3130 Wisconsin Ave NW,Washington, DC 20016
+2598,State House Apts,2122 Massachusetts Ave NW,Washington, DC 20008
+2599,Laguna Clara-Santa Clara,3131 Homestead Rd,Santa Clara, CA 95051
+2600,Villa Bellini,7050 NW 179 ST,Hialeah, FL 33015
+2601,NOB Hill North,5454 Braesvalley Dr,Houston, TX 77096
+2602,Township,401 S Bender Ave,Humble, TX 77338
+2603,Yorkshire Village Apts,12221 Fleming Dr,Houston, TX 77013
+2604,Bayou Parc Apts,4000 Watonga Blvd,Houston, TX 77092
+2605,NOB Hill North - 2,5454 Braesvalley Dr,Houston, TX 77096
+2606,Ocean Walk Apts,3900 S Roosevelt Blvd,Key West, FL 33040
+2609,Cypress Springs Apts,8208 Cypress Springs Rd,Baton Rouge, LA 70811
+2610,Windmill Point Apts,2501 N Alafaya Trail,Orlando, FL 32826
+2611,431 Wilson Ave,431 Wilson Ave,Brooklyn, NY 11221
+2612,Hunters Lake Apts,1207 Hunters Lake W Dr,Cuyahoga Falls, OH 44221
+2613,La Casita,313 Sunnyside St,Houston, TX 77076
+2614,Courtyards Apts the,6001 Topke Place NE,Albuquerque, NM 87109
+2615,Kenilworth Towers 2,3801 Kenilworth Ave,Bladensburg, MD 20710
+2616,The Meadows at Brick Kiln,82 Brick Kiln Rd,Chelmsford, MA 01824
+2617,Charles River Towers,131 Coolidge Ave,Watertown, MA 02472
+2618,Pinebrook South,15601 SW 137 Ave,Miami, FL 33177
+2620,Advenir at French Quarter Apts,3205 S Parker Rd,Denver, CO 80014
+2621,Siena Village,1737 W Missouri Ave,Phoenix, AZ 85015
+2622,Carob Tree,9202 N 19 Ave,Phoenix, AZ 85021
+2623,Harding Centre,267 W Center St,Marion, OH 43302
+2624,1100 Howe Ave,1100 Howe Ave,Sacramento, CA 95825
+2625,1432 Parkway Dr,1432 Parkway Dr,Melbourne, FL 32935
+2626,512 W 136 St,512 W 136 St,New York, NY 10031
+2627,Hampton East,4744 Benning Rd SE,Washington, DC 20019
+2628,Villas on 76,2002 W 76 Ave,Denver, CO 80221
+2629,Palm Hill Condo Assoc,5101 Palm Hill Dr,West Palm Beach, FL 33415
+2630,Brighton Square,302-306 Kent Lane,Madison, WI 53713
+2632,235 E 73 St,235 E 73 St,New York, NY 10021
+2633,Palo Verde,6164 Forest Hill Blvd,West Palm Beach, FL 33415
+2634,Phoenix Apts,5802 Annapolis Rd,Bladensburg, MD 20710
+2635,Juniper & 10 St Highrise,150 10 St NE,Atlanta, GA 30309
+2636,Dulles Court Apts,1265 Elden St,Herndon, VA 20170
+2637,3008 E Cheltenham Pl,3008 E Cheltenham Pl,Chicago, IL 60649
+2638,Camden Lakes,11401 Dr Martin Luther King,St Petersburg, FL 33716
+2639,Colonial Village,908 Marcy Ave,Oxon Hill, MD 20745
+2640,Parkview Apts,7806 NE 12 St,Vancouver, WA 98664-1850
+2641,Capistrano Condo,200 Maitland Ave,Altamonte Springs, FL 32701
+2642,The Madeira,7533 38 Ave N,Saint Petersburg, FL 33710
+2643,30-02 39 Ave-FL#3,30-02 39 Ave-FL#3,Long Island City, NY 11101
+2644,30-02 39 Ave-FL#5,30-02 39 Ave-FL#5,Long Island City, NY 11101
+2645,30-02 39 Ave-FL#7,30-02 39 Ave-FL#7,Long Island City, NY 11101
+2646,Pulteney Apts,40 PARK PL,Geneva, NY 14456
+2647,Flats on Lasalle,1140 N Lasalle,Chicago, IL 60610
+2648,Cambridge Court Apts,5222 North Dr,Nacogdoches, TX 75965
+2649,Rittenhouse Claridge,201 S 18 ST,Philadelphia, PA 19103
+2650,Tzadik Tanglewood Square Apts,2811 Ruleme st,Eustis, FL 32726
+2651,University Square Apts,412 S 13th St,Indiana, PA 15701
+2652,200 Virginia Ave,200 Virginia Ave,Royal Oak, MI 48067
+2653,1. Four Season Condos-Winter Park,200 Saint Andrews Blvd,Winter Park, FL 67197
+2654,900 Taney Ave,900 Taney Ave,Frederick, MD 21702
+2655,5 Liberty Commons Way,2. 5 Liberty Commons Way,Liberty, NY 12754
+2656,512 W 136 St,512 W 136 St,New York, NY 10031
+2657,Marina Bay Apts,2400 Lantana Rd,Atlantis, FL 33462
+2658,Westside Flats,2101 Hayes Rd,Houston, TX 77077
+2659,Devonshire Square Apts,2770 E Uintah St,Colorado Springs, CO 80909
+2660,Vista Park Apts,12707 E Mississippi,Aurora, CO 80012
+2661,Crane Village Apts,651 Oaklynn Ct,Pittsburgh, PA 15220
+2662,Los Pinones,825 Calle Mejia,Santa Fe, NM 87501
+2663,Prairie Hills,1001 Tramway Blvd NE,Albuquerque, NM 87112
+2664,3929 Kansas St,3929 Kansas St,San Diego, CA 92104
+2665,Falcon Ridge Apts,428 Briarwood Ave,Dayton, OH 45403
+2666,Artspace at Mesa Lofts,155 S Hibbert Mesa,Mesa, AZ 85201
+2667,Alexandria At Hillsboro,524 Andria Ave,Hillsborough, NJ 08844
+2668,Hammerly Oaks,8791 Hammerly Blvd,Houston, TX 77080
+2669,Sandcrest Apts,38241 Lakeshore Blvd,Willoughby, OH 44094
+2670,Alvarado Apts,611 Lead Ave SW,Albuquerque, NM 87102
+2671,Fisher Build,343 S Dearborn St,Chicago, IL 60604
+2672,Homestead At Reston,12265 Laurel Glade CT,Reston, VA 20191
+2673,1. Texas Southern University,3100 Cleburne,Houston, TX 77004
+2674,2. Texas Southern University,3100 Cleburne,Houston, VA 77004
+2675,Montgomery Park,1301 Powell St,Norristown, PA 19401
+2676,Carbo Apts,26 Russ St,Hartford, CT 06106
+2679,2. Four Season Condos-Winter Park,200 Saint Andrews Blvd,Winter Park, FL 32792
+2680,2. Northgate Hills I & II,8885 Research Blvd,Austin, TX 78758
+2681,Evans Ranch Apts,1234 Evans Rd,San Antonio, TX 78258
+2682,Vista Lomita IV HOA,25930 Narbonne Ave,Lomita, CA 90717
+2683,Avalon Midtown West-NY525,250 W 50 St,New York, NY 10019
+2684,Briarcrest At Winter Haven Apts,200 Avenue K SE,Winter Haven, FL 33880
+2685,Broadway Place Apts,9110 Broadway St,San Antonio, TX 78217
+2686,Bungalow 09 Apts,8446 Country Village St,San Antonio, TX 78209
+2687,Goodwood Place Apts,356 Apartment Court Dr,Baton Rouge, LA 70806
+2688,Emerald Pointe Apts,53880 Generations Dr,South Bend, IN 46635
+2689,Connecticut Park Apts,2828 Connecticut Ave NW,Washington, DC 20008
+2690,Putnam Science Center,18 Maple St,Putnam, CT 06260
+2691,The Summit at Ridgewood,1035 Ridgewood Dr,Fort Wayne, IN 46805
+2692,Rolling Green Condo E Assoc,1351 NE 191 St,Miami, FL 33179
+2693,St Marks Terrace,112 Chapel St,Penn Yan, NY 14527
+2694,St Marks-Dundee,36 Millard St,Dundee, NY 14837
+2695,Riverdale Apts,90 E Hatfield St,Massena, NY 13662
+2696,Skyline Towers,5597 Seminary Rd,Falls Church, VA 22041
+2697,2. Skyline Towers,5597 Seminary Rd,Falls Church, VA 22041
+2698,821 W La Jolla St,821 W La Jolla St,Placentia, CA 92870
+2699,Marina Del Ray,4157 Via Marine (Office Location 2),Marina Del Ray, CA 90292
+2700,2. Taft Haus Apts-Wichita Falls,4611 Taft Blvd,Wichita Falls, TX 76308
+2701,Canyon Heights,550 N Pantano Rd,Tucson, AZ 85710
+2702,Brumby Lofts Apts,111 N Marietta Pkwy NE,Marietta, GA 30060
+2703,555 Mansell,555 Eagles Crest Village Ln,Roswell, GA 30076
+2704,Adirondack Gateway RV Resort,427 Fortsville Rd,Gansevoort, NY 12831
+2705,Albertville Meadows,10740 Country Rd 37 NE,Albertville, MN 55301
+2706,Goodwin Gardens,37 Fairway Dr,Wethersfield, CT 06109
+2707,LitchField Gardens,I15 Nanni Dr,Winsted, CT 06098
+2708,LitchField Heights,15 Mountain View Terr,Winsted, CT 06098
+2709,Lakeview Apts,34 Lakeshore Dr,Farmington, CT 06032
+2710,Fulton Cotton Mill,170 Boulevard SE,Atlanta, GA 30312
+2711,Brentwood Apts,8670 Devonshire Ct,Manassas, VA 20110
+2712,Patapsco Landing,1001 E Jeffrey St,Brooklyn, MD 21225
+2713,Chatham Gardens Section I,3332 N Chatham Rd,Ellicott City, MD 21042
+2714,Woodside Gardens,713 Newtowne Dr,Annapolis, MD 21401
+2715,The Barrington,1901 East West Hwy,Silver Springs, MD 20910
+2716,Forest Green-Gainesville,3501 NE 15 St,Gainesville, FL 32609
+2717,2751 Monument Blvd,2751 Monument Blvd,Concord, CA 94520
+2718,Farmingdale Garden Apts,1233 Melville Rd,Farmingdale, NY 11735
+2719,2727 Fairlawn Ave SE-RM 1,2727 Fairlawn Ave SE-RM 1,Washington, DC 20019
+2720,Blackhawk Apts,926 Congdon Ave,Elgin, IL 60120
+2721,1750 N Marywood Ave,1750 N Marywood Ave,Aurora, IL 60505
+2722,Parliament Apts,7409 Eastmoreland Rd,Annandale, VA 22003
+2723,Mason Hall Apts,1420 W Abingdon Dr,Alexandria, VA 22314
+2724,Warren Continental,920 Continental LP SE,Albuquerque, NM 87108
+2725,Townsgate Apts,1211 Goldfinch Dr,Plant City, FL 33563
+2726,Park Haven Apts,6917 76 Ave N,Brooklyn Park, MN 55428
+2727,2. Belle Haven II,6034 Richmond Hwy,Alexandria, VA 22303
+2728,Berkshire Condominiums,11820 Edgewater Dr,Lakewood, OH 44107
+2729,Advenir At the Village,5362 N Nevada Ave,Colorado Springs, CO 80918
+2730,Palmeto Place Apts,2901 Pardue St,Lancaster, SC 29720
+2731,Woodland Crossing Apts,3459 Walmsley Blvd,Richmond, VA 23234
+2732,1212 Westheimer Dr,1212 Westheimer Dr,Austin, TX 78752
+2733,4648 HUNTINGTON DR,4648 HUNTINGTON DR S-BIDG 2,Los Angeles, CA 90032
+2734,RIVERVIEW MANOR APTS,15 W CONNELLY BLVD,Sharon, PA 16146
+2735,Willow Village Apts,174 W Budd St,Sharon, PA 16146
+2736,Lee Valley Apts,6512 Lee Valley Dr,Springfield, VA 22150
+2737,Kennedy Plaza Apts,2 Kennedy Plaza #1,Utica, NY 13502
+2738,Century Park Apts,5801 Preston Oaks Rd,Dallas, TX 75254
+2739,Grant View Court,820 SE 190 Ave,Gresham, OR 97030
+2740,Brandy Hill,12 State St,East Wareham, MA 02538
+2741,Echo Valley Apts,56 Maple Ave,West Warwick, RI 02893
+2742,Champion Green Apts,14141 Champions Dr,Houston, TX 77069
+2743,2225 Ditmas Ave,2225 Ditmas Ave,Brooklyn, NY 11266
+2744,Rye Castle Apts,6 Davis Ave,Rye, NY 10580
+2745,Middletowne Apts,1809 Debarry Ave,Orange Park, FL 32073
+2746,Golden Leaf Apts,122 N Cleveland St,Quincy, FL 32351
+2747,111 Murray St,111 Murray St,New York, NY 10007
+2748,200-202 West Houston St Rm 2,200-202 West Houston St Rm 2,New York, NY 10014
+2749,Anthony Wayne III,1701 28 ST,Philadelphia, PA 19145
+2750,Arbor Oaks Apts,2535 Jammes Rd,Jacksonville, FL 32210
+2751,Walden Palms Condos,4700 Walden Cir,Orlando, FL 32811
+2752,Avesta Bridgewater,2504 S Conway Rd,Orlando, FL 32812
+2753,Lake Shore Club Condos,1830 Embassy Dr,West Palm Beach, FL 33401
+2754,Woodlake Towers Condo,3100 S Manchester St,Falls Church, VA 22044
+2755,Salvation Army School,1031 Metropolitan Pkwy SW,Atlanta, GA 30310
+2756,50 Stoneview,50 Stone view trail NW,Lilburn, GA 30047
+2757,2. Westside Flats,2101 Hayes Rd,Houston, TX 77077
+2758,Olympia Flats,2201 Hayes Rd,Houston, TX 77077
+2759,2. Olympia Flats,2201 Hayes Rd,Houston, TX 77077
+2760,Country Village Apts,4201 Idlewild Rd,Bel Air, MD 21014
+2761,The Meadows-Ithaca,100 Graham Rd,Ithaca, NY 14850
+2762,Carriage Woods,1515 Wilson Rd,Conroe, TX 77304
+2763,Maravilla Owners Association Inc,9520 Seawall Blvd,Galveston, TX 77554
+2764,2. Grant View Court,820 SE 190 Ave,Gresham, OR 97030
+2765,Carroll Gardens,360 Court St,Brooklyn, NY 11231
+2766,East Perimeter Point Apts,3500 Snapfinger Wood Dr,Decatur, GA 30035
+2767,Kernan Gardens Apts,1901 N Forest Park Ave,Baltimore, MD 21207
+2768,Eagles Landing,936 Morris Rd,Kent, OH 44240
+2769,Cultural Gardens,22705 Lakeshore Blvd,Euclid, OH 44123
+2770,The 2020 Building,2020 SW Salmon St,Portland, OR 97205
+2771,River Oaks Condos,4837 Cedar Springs,Dallas, TX 75219
+2772,Aspen Creek,5616 Spring Valley Rd,Dallas, TX 75254
+2773,5636 Apts,5636 Spring Valley Rd,Dallas, TX 75240
+2774,Sierra Ranch Apts,8916 Datapoint Dr,San Antonio, TX 78229
+2775,Heritage Acres,1015 Nansemond Pkwy,Suffolk, VA 23434
+2776,401 S Rampart Blvd,401 S Rampart Blvd,Los Angeles, CA 90057
+2777,Gardencrest Apts,20 Middlesex cir,Waltham, MA 2452
+2778,Racquet Club South,1970 Veterans Hwy,Levittown, PA 19056
+2779,Hope Village Apts,1605 Hope Rd,Glen Allen, VA 23060
+2780,Frazer Crossing Apts,1086 W King Rd,Malvern, PA 19355
+2781,Ridley Brook Apts,111 Macdade Blvd,Folsom, PA 19033
+2782,Golf Club Gardens,1100 W Chester Pike,West Chester, PA 19382
+2783,2814 John F Kennedy Blvd,2814 John F Kennedy Blvd,Jersey City, NJ 7306
+2784,60-64 Sip Ave,60-64 Sip Ave,Jersey City, NJ 07306
+2785,Diamond Square,80B Bureau Dr,Gaithersburg, MD 20878
+2786,Sherwood Village Coop D,99-05 59 Ave,Corona, NY 11368
+2787,NOB Hill North - 3,5454 Braesvalley Dr,Houston, TX 77096
+2788,Presidential Plaza 100,35 River Dr S,Jersey City, NJ 07310
+2789,Jefferies Apts,520 Los Ranchos Rd NW,Los Ranchos, NM 87107
+2790,Vassar Gardens,1920 Vassar Dr NE,Albuquerque, NM 87106
+2791,Village Algrias,209 Los Pandos rd,Taos, NM 87571
+2792,Village in the Bosque,857 Calle Los Mayores,Bernalillo, NM 87004
+2793,Sigma Apt,5801 Haines Ave NE,Albuquerque, NM 87110
+2794,Allegre Apts,1450 Bridge Blvd SW,Albuquerque, NM 87105
+2795,Ambassador East,8911 Northeastern Blvd NE,Albuquerque, NM 87112
+2796,Golden West,1343 Rio Rancho Dr SE,Rio Rancho, NM 87124
+2797,Mountain Vista,600 San Ildefonso Rd,Los Alamos, NM 87544
+2798,Affinity Orchard Place Apts,1 Affinity Ln,Rochester, NY 14616
+2799,Stone Hill Apts,532 Brookhaven Rd Apt L7A,Brookhaven, PA 19015
+2800,University Park Apts,87 Uptown Rd,Ithaca, NY 14850
+2801,222-232 Monroe St,222 Monroe St,Hoboken, NJ 07030
+2802,875 West End Ave,875 West End Ave,New York, NY 10025
+2803,Sunrise Island Condo 2,3955 N NOB Hill Rd,Sunrise, FL 33351
+2804,CrestHaven Ashley Master Assoc,2885 Ashley Dr E,West Palm Beach, FL 33415
+2805,Aliro Apts,14000 Biscayne Blvd,North Miami Beach, FL 33181
+2806,River View Tower Apts,500 W Martin Luther King Blvd,Chattanooga, TN 37402
+2807,Tzadik Bay Apts,1225 S Beach St,Daytona Beach, FL 32114
+2808,Sun Chase Apts,5901 W 30 Ave,Bradenton, FL 34209
+2809,2211 Ditmas Ave,2211 Ditmas Ave,Brooklyn, NY 11226
+2810,Euclid Beach Club Apts,123 E 156 St,Cleveland, OH 44110
+2811,White Pond Villa Apts,477 White Pond Dr,Akron, OH 44320
+2812,Ring House,1801 E Jefferson St,Rockville, MD 20852
+2813,Warwick Apts Phase 1,1131 University Blvd W,Silver Springs, MD 20902
+2814,Fairway Ridge Apts,2600 Gatehouse Dr,Baltimore, MD 21207
+2815,Hampshire Towers Apts,7401 New Hampshire Ave,Takoma Park, MD 20912
+2816,Middlebrooke Apts,400 Baldwin park Dr,Westminster, MD 21157
+2817,Howards Crossing,8730 Town & Country Blvd,Ellicott City, MD 21043
+2818,2. Westpark Apts,2130 P St NW,Washington, DC 20037
+2819,Forest Hill Terrace,14030 Terrace Rd,East Cleveland, OH 44112
+2820,Agave Village,7807 E Main St,Mesa, AZ 85207
+2821,4115 WISCONSIN AVE,4115 WISCONSIN AVE,Washington, DC 20016
+2822,August Apts,2147 O St NW,Washington, DC 20037
+2823,Park 100 Residences,100 Park Ave W,Denver, CO 80205
+2824,Sierra Woods,4655 Minnier Ave,Riverside, CA 92505
+2825,Peachtree Battle Condos,2285 Peachtree Rd NE,Atlanta, GA 30309
+2826,Clubhouse,901 Cagney Ln,Newport Beach, CA 92663
+2827,14210 S Vermont Ave,14210 S Vermont Ave,Gardena, CA 90247
+2828,Calvert-Woodley,2601 Woodley PL NW,Washington, DC 20008
+2829,The Eleanor,1101 West Virginia Ave NE,Washington, DC 20002
+2830,Townhouse Cir,Cutter Mill Rd,Great Neck, NY 11021
+2831,2 Townhouse Cir,Cutter Mill Rd,Great Neck, NY 11021

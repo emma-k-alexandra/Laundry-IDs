@@ -1,4 +1,4 @@
-NUMBER_OF_IDS_TO_SCRAPE=10000
+NUMBER_OF_IDS_TO_SCRAPE=1000
 
 START=$@
 START=${START:-1} # default value for START if not provided

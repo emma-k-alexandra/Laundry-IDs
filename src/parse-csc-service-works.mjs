@@ -30,7 +30,7 @@ outputFilename[outputFilename.length - 1] = 'csv'
 outputFilename = outputFilename.join('.')
 
 const csvWriter = createArrayCsvWriter({
-    path: new URL(`../output/${outputFilename}`, import.meta.url),
+    path: new URL(`../${outputFilename}`, import.meta.url),
     header: ['cva', 'name', 'street', 'address']
 })
 

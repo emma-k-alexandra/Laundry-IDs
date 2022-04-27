@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "csv-writer": "^1.6.0",
-    "cypress": "9.3.1",
+    "cypress": "9.5.4",
     "n-readlines": "^1.0.1"
   }
 }
