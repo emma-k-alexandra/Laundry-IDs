@@ -15,8 +15,7 @@ describe('A.L.L. Laundry', () => {
   })
 
   it('go forever', () => {
-    const START = Cypress.env('START')
-    const NUMBER_OF_IDS_TO_SCRAPE = Cypress.env('NUMBER_OF_IDS_TO_SCRAPE')
+    const { START, NUMBER_OF_IDS_TO_SCRAPE } = Cypress.env()
 
     const ids = [...Array(NUMBER_OF_IDS_TO_SCRAPE)].map((_element, i) => i + START)
 

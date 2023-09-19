@@ -2,8 +2,10 @@
 
 describe('CSC Service Works', () => {
   it('scape ids', () => {
-    const START = Cypress.env('START')
-    const NUMBER_OF_IDS_TO_SCRAPE = Cypress.env('NUMBER_OF_IDS_TO_SCRAPE')
+    const { START, NUMBER_OF_IDS_TO_SCRAPE } = Cypress.env()
+
+    cy.log(Cypress.env())
+    console.log(Cypress.env())
 
     const ids = [...Array(NUMBER_OF_IDS_TO_SCRAPE)].map((_element, i) => i + START)
 
