@@ -31,7 +31,8 @@ outputFilename = outputFilename.join('.')
 
 const csvWriter = createArrayCsvWriter({
     path: new URL(`../output/${outputFilename}`, import.meta.url),
-    header: ['cva', 'address', 'city', 'state', 'zip', 'active']
+    header: ['cva', 'address', 'city', 'state', 'zip', 'active'],
+    alwaysQuote: true
 })
 
 csvWriter.writeRecords(records)
