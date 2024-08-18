@@ -2,6 +2,10 @@
 
 A simple Cypress scraper for getting CVA IDs from CSC Service Works and A.L.L.
 
+## Your CVA IDs
+
+You can check for your own CVA IDs without running the code. Check [the `output` directory](https://github.com/emma-k-alexandra/Laundry-IDs/tree/main/output). You may need to search over multiple files to find your CVA ID.
+
 ## Install
 
 This project uses [Yarn Classic](https://classic.yarnpkg.com/en/docs/install).
