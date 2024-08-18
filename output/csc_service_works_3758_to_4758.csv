@@ -87,7 +87,7 @@ cva,name,street,city,state and zip
 4087,Battery Lane Apts,4949 Battery Lane,Bethesda, MD 20814
 4088,Red Pines Apts,3823 Red Bluff Rd,Pasadena, TX 77503
 4089,560 State St,560 State St,Brooklyn, NY 11217
-4090,Parc Fontaine Condos,,3101 Rue Parc Fontaine,New Orleans, LA 70131
+4090,Parc Fontaine Condos,3101 Rue Parc Fontaine,New Orleans, LA 70131
 4091,Park Fontaine Apts,3201 Rue Park Fontaine,New Orleans, LA 70131
 4092,Torino Villas,7626 Callaghan Rd,San Antonio, TX 78229
 4093,Bellfort Apts Phase I,7950 Bellfort St,Houston, TX 77061
@@ -135,8 +135,8 @@ cva,name,street,city,state and zip
 4140,Courts of Camp Springs,6322 Maxwell Dr,Suitland, MD 20746
 4141,2 East 8 St,777 S State St,Chicago, IL 60605
 4142,Campbell Park,2897 NE Rene Ave,Gresham, OR 97030
-4143,2152 Aldrin Rd, Room 1,2152 Aldrin Rd, Room 1,Asbury Park, NJ 07712
-4144,2152 Aldrin Rd, Room 2,2152 Aldrin Rd, Room 2,Asbury Park, NJ 07712
+4143,"2152 Aldrin Rd, Room 1","2152 Aldrin Rd, Room 1",Asbury Park, NJ 07712
+4144,"2152 Aldrin Rd, Room 2","2152 Aldrin Rd, Room 2",Asbury Park, NJ 07712
 4145,Monticello Meadows Apts,81 Shaker Heights Dr,Monticello, NY 12701
 4146,401 Blue Condo,401 69 St,Miami Beach, FL 33141
 4147,2. PARC500,500 N Congress Ave,West Palm Beach, FL 33401
