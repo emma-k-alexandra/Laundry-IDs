@@ -253,7 +253,7 @@ cva,name,street,city,state and zip
 316,The Regency HOA,221 West 48th Street,Kansas City, MO 64112
 317,30 East 38th Street,30 East 38th Street,New York, NY 10016
 318,200-202 West Houston Street,200-202 West Houston Street,New York, NY 10014
-319,Taylors Place Apts,4213 E 12 St, 605-81 S. Charlotte Ave,Sioux Falls, SD 57103
+319,Taylors Place Apts,"4213 E 12 St, 605-81 S. Charlotte Ave",Sioux Falls, SD 57103
 320,Prentiss Creek Apts - Bldg 1,2210 Prentiss Dr - Bldg 1,Chicago, IL 60615
 321,86-15 Broadway,86-15 Broadway,Elmhurst, NY 11373
 322,Woodlake Village,951 South Idaho Street,La Habra, CA 90631
@@ -294,8 +294,8 @@ cva,name,street,city,state and zip
 363,2021 Ocean Avenue,2021 Ocean Avenue,Santa Monica, CA 90405
 364,Chesterfield Apts,900 West Franklin Street,Richmond, VA 23220
 365,Tower America Atlantic,31 River Court,Jersey City, NJ 07310
-366,Crestview Apts - Building 1,,971 US Hwy 9 No,Parlin, NJ 08859
-367,Crestview Apts - Building 4,,971 US Hwy 9 No,Parlin, NJ 08859
+366,Crestview Apts - Building 1,971 US Hwy 9 No,Parlin, NJ 08859
+367,Crestview Apts - Building 4,971 US Hwy 9 No,Parlin, NJ 08859
 368,200 North End Avenue,200 North End Avenue,New York, NY 10282
 369,100 Clinton Avenue,100 Clinton Avenue,Mineola, NY 11501
 370,225 East 76 Street,225 East 76 Street,New York, NY 10057
@@ -303,17 +303,17 @@ cva,name,street,city,state and zip
 372,NY warehouse,NY warehouse,syosset, NY 11803
 374,3842 West Irving Park Road,3842 W Irving Park Rd,Chicago, IL 60618
 375,150 West 95 Street,150 West 95 Street,New York, NY 10025
-376,Thayer Terrace Apts,,525 Thayer Avenue,Silver Springs, MD 20910
+376,Thayer Terrace Apts,525 Thayer Avenue,Silver Springs, MD 20910
 377,203 Ladera Street,203 Ladera Street,Santa Barbara, CA 93101
 378,Dalton Apts,131 East 5th Street,Gary, IN 46402
 379,7331 South Coles Avenue,7331 South Coles Avenue,Chicago, IL 60649
 380,Heritage Village Apts,5055 S 55 St,Greenfield, WI 53220
 381,Valley Vista Condo,2032 Belmont Road NW,Washington, DC 20009
 382,Kent State University - Stopher,One Kent State University Drive,Kent, OH 44242
-384,Kent State University, Tri Tower,,One Kent State University Drive,Kent, OH 44242
-385,Kent State University, Fletcher/Manchester,,One Kent State University Drive,Kent, OH 44242
-386,Kent State University, Twin Towers,,One Kent State University Drive,Kent, OH 44242
-387,US Merchant Marine Academy,US Merchant Marine Academy,Kings Point, NY 11024
+384,Kent State University,"Tri Tower,One Kent State University Drive",Kent, OH 44242
+385,Kent State University,"Fletcher/Manchester,One Kent State University Drive",Kent, OH 44242
+386,Kent State University,"Twin Towers,One Kent State University Drive",Kent, OH 44242
+387,US Merchant Marine Academy,US Merchant Marine Academy,Kings Point", NY 11024
 388,1921-27 West Drive,1921-27 West Drive,Vista, CA 92083
 389,Boulevard Apts,2830 West Highland Avenue,Milwaukee, WI 53208
 390,Parkway Towers,4545 Wornall,Kansas City, MO 64111
@@ -395,12 +395,12 @@ cva,name,street,city,state and zip
 470,Spring Crest Apts,4245 University Drive,Sunrise, FL 33351
 472,26433 Solon Road,26433 Solon Road,Oakwood Village, OH 44146
 473,26463 Solon Road,26463 Solon Road,Oakwood Village, OH 44146
-474,Northtown Village Apts,7779 University Avenue NE, Bldg 1,Spring Lake Park, MN 55432
-475,Northtown Village Apts,7799 University Avenue NE, Bldg 2,Spring Lake Park, MN 55432
-476,Northtown Village Apts,7819 University Avenue NE, Bldg 3,Spring Lake Park, MN 55432
-477,Northtown Village Apts,7839 University Avenue NE, Bldg 4,Spring Lake Park, MN 55432
-478,Northtown Village Apts,7859 University Avenue NE, Bldg 5,Spring Lake Park, MN 55432
-479,Northtown Village Apts,7879 University Avenue NE, Bldg 6,Spring Lake Park, MN 55432
+474,Northtown Village Apts,"7779 University Avenue NE, Bldg 1",Spring Lake Park, MN 55432
+475,Northtown Village Apts,"7799 University Avenue NE, Bldg 2",Spring Lake Park, MN 55432
+476,Northtown Village Apts,"7819 University Avenue NE, Bldg 3",Spring Lake Park, MN 55432
+477,Northtown Village Apts,"7839 University Avenue NE, Bldg 4",Spring Lake Park, MN 55432
+478,Northtown Village Apts,"7859 University Avenue NE, Bldg 5",Spring Lake Park, MN 55432
+479,Northtown Village Apts,"7879 University Avenue NE, Bldg 6",Spring Lake Park, MN 55432
 480,Meadows West,225 Christie Street,Ridgefield Park, NJ 07660
 481,Meadows West,232 Christie Street,Ridgefield Park, NJ 07660
 482,200 Congress Street,200 Congress Street,Brooklyn, NY 11201
@@ -434,7 +434,7 @@ cva,name,street,city,state and zip
 512,Sunfish Lake Apts,2050 Delaware Avenue,West St Paul, MN 55118
 513,Woodmere Apts,1 Woodmere Drive,Petersburg, VA 23805
 514,Cherry Hill Towers - Building A,2145 Route 38 East,Cherry Hill, NJ 08003
-515,Cherry Hill Towers, Building B,2145 Route 38 East,Cherry Hill, NJ 08003
+515,Cherry Hill Towers,"Building B,2145 Route 38 East",Cherry Hill, NJ 08003
 516,Fairfield at Hauppauge,650-652 Veterans Highway,Hauppague, NY 11788
 517,19 Fiske Place,19 Fiske Place,Brooklyn, NY 11215
 518,Fairfield at Hauppauge,654-656 Veterans Highway,Hauppauge, NY 11788
@@ -447,12 +447,12 @@ cva,name,street,city,state and zip
 525,Cathedral Court Condo,3026 Wisconsin Avenue NW,Washington, DC 20016
 526,Cathedral Court Condo,3028 Wisconsin Avenue NW,Washington, DC 20016
 527,Village Hill Apts Phase I - Bldg 2,5787 Caruth Haven Lane,Dallas, TX 75206
-528,Village Hill Apts Phase I, Bldg 6,5787 Caruth Haven Lane,Dallas, TX 75206
-529,Village Hill Apts Phase I, Bldg 8,5787 Caruth Haven Lane,Dallas, TX 75206
-530,Village Hill Apts Phase I, Bldg 12,5787 Caruth Haven Lane,Dallas, TX 75206
-531,Village Hill Apts Phase I, Bldg 13,5787 Caruth Haven Lane,Dallas, TX 75206
-532,Village Hill Apts Phase I, Bldg 21,5787 Caruth Haven Lane,Dallas, TX 75206
-533,Village Hill Apts Phase I, Bldg 27,5787 Caruth Haven Lane,Dallas, TX 75206
+528,Village Hill Apts Phase I Bldg 6",5787 Caruth Haven Lane,Dallas, TX 75206
+529,Village Hill Apts Phase I Bldg 8",5787 Caruth Haven Lane,Dallas, TX 75206
+530,Village Hill Apts Phase I Bldg 12",5787 Caruth Haven Lane,Dallas, TX 75206
+531,Village Hill Apts Phase I Bldg 13",5787 Caruth Haven Lane,Dallas, TX 75206
+532,Village Hill Apts Phase I Bldg 21",5787 Caruth Haven Lane,Dallas, TX 75206
+533,Village Hill Apts Phase I Bldg 27",5787 Caruth Haven Lane,Dallas, TX 75206
 534,Deal Lake Towers,510 Deal Lake Drive,Asbury Park, NJ 07712
 535,525 Birch Hill Drive,525 Birch Hill Drive,Medina, OH 44256
 536,4054 Goldfinch Street,4054 Goldfinch Street,San Diego, CA 92103
@@ -570,11 +570,11 @@ cva,name,street,city,state and zip
 664,Gallery House Condo,77 W 55 St,New York, NY 10019
 665,73 Western Avenue,73 Western Ave,Jersey City, NJ 07307
 667,Corner Village,1215 Wertland St,Charlottesville, VA 22903
-668,Southern Towers Apts - Ashlawn,4921 Seminary Rd, Ashlawn,Alexandria, VA 22311
-669,Southern Towers Apts - Stratford,4901 Seminary Rd, Stratford,Alexandria, VA 22311
-670,Southern Towers Apts - Sherwood,5001 Seminary Rd, Sherwood,Alexandra, VA 22311
-671,Southern Towers Apts - Berkeley,5021 Seminary Rd, Berkeley,Alexandria, VA 22311
-672,Southern Towers Apts - Monticello,5055 Seminary Rd, Monticello,Alexandria, VA 22311
+668,Southern Towers Apts - Ashlawn,"4921 Seminary Rd, Ashlawn",Alexandria, VA 22311
+669,Southern Towers Apts - Stratford,"4901 Seminary Rd, Stratford",Alexandria, VA 22311
+670,Southern Towers Apts - Sherwood,"5001 Seminary Rd, Sherwood",Alexandra, VA 22311
+671,Southern Towers Apts - Berkeley,"5021 Seminary Rd, Berkeley",Alexandria, VA 22311
+672,Southern Towers Apts - Monticello,"5055 Seminary Rd, Monticello",Alexandria, VA 22311
 673,83 Western Avenue,83 Western Ave,Jersey City, NJ 07307
 674,Newport Marina,500 Washington Blvd,Jersey City, NJ 07310
 675,1242 Mc Clellan Drive,1242 Mc Clellan Dr,Los Angeles, CA 90025
@@ -600,7 +600,7 @@ cva,name,street,city,state and zip
 708,12 West 96 Street,12 W 96 St,New York, NY 10025
 709,Kensington Square,2100 N New Florissant Rd,Florrissant, MO 63033
 710,Wesley House,501 6 St,Brooklyn, NY 11215
-711,Riverside South, Bldg 2, Main Level,33 West End Ave,New York, NY 10023
+711,"Riverside South Bldg 2, Main Level",33 West End Ave,New York, NY 10023
 712,Summit House,155 Ferris Ave,White Plains, NY 10603
 714,Continental Plaza,1330 W 76 St,Chicago, IL 60620
 715,American Beauty Mill Apts,2400 So Ervay St,Dallas, TX 75215
@@ -610,12 +610,12 @@ cva,name,street,city,state and zip
 719,Chateau Perry Apts,951 Perry Hwy,Pittsburgh, PA 15237
 720,Nob Hill of Pittsburgh,3000 Swallow Hill Rd,Pittsburgh, PA 15220
 721,Pleasant Hills Apts,500 E Bruceton Rd,Pittsburgh, PA 15236
-722,Regency Towers - Building A,6842 Day Dr, Bldg A,Parma, OH 44129
+722,Regency Towers - Building A,"6842 Day Dr, Bldg A",Parma, OH 44129
 723,54 Sagamore Rd,54 Sagamore Rd,Bronxville, NY 10708
 724,56 Sagamore Road,56 Sagamore Rd,Bronxville, NY 10708
-725,Regency Towers - Building B,6841 Day Dr, Bldg B,Parma, OH 44129
-726,Regency Towers - Building C,6841 Day Dr, Bldg C,Parma, OH 44129
-727,Regency Towers - Building D,6841 Day Dr, Bldg D,Parma, OH 44129
+725,Regency Towers - Building B,"6841 Day Dr, Bldg B",Parma, OH 44129
+726,Regency Towers - Building C,"6841 Day Dr, Bldg C",Parma, OH 44129
+727,Regency Towers - Building D,"6841 Day Dr, Bldg D",Parma, OH 44129
 728,490 Ocean Parkway,490 Ocean Parkway,Brooklyn, NY 11218
 729,5005 Mc Leod Drive,5005 Mc Leod Drive,Las Vegas, NV 89120
 730,Coney Island Commons,2961 W 30 St,Brooklyn, NY 11224
@@ -629,12 +629,12 @@ cva,name,street,city,state and zip
 738,Lake Castleton,7601 Carlton Arms Kingsport & Carlton,Indianapolis, IN 46256
 739,221 East 50th Street,221 E 50 St,New York, NY 10022
 740,Kenmore,266 Pelham Rd,New Rochelle, NY 10805
-741,Rockside Park Towers,25200 Rockside Rd, Bldg A,Bedord Heights, OH 44146
-742,Rockside Park Towers,25300 Rockside Rd, Bldg B,Bedord Heights, OH 44146
-743,Rockside Park Towers,25400 Rockside Rd, Bldg C,Bedford Heights, OH 44146
+741,Rockside Park Towers,"25200 Rockside Rd, Bldg A",Bedord Heights, OH 44146
+742,Rockside Park Towers,"25300 Rockside Rd, Bldg B",Bedord Heights, OH 44146
+743,Rockside Park Towers,"25400 Rockside Rd, Bldg C",Bedford Heights, OH 44146
 744,138 Beach 125 Street,138 Beach 125 Street,Rockaway Park, NY 11694
-745,Presidential Apts,3410 Wooster Rd, Bldg A,Rocky River, OH 44116
-746,Presidential Apts,3420 Wooster Rd, Bldg B,Rocky River, OH 44116
+745,Presidential Apts,"3410 Wooster Rd, Bldg A",Rocky River, OH 44116
+746,Presidential Apts,"3420 Wooster Rd, Bldg B",Rocky River, OH 44116
 747,College Terrace Apts,3960 58 St,San Diego, CA 92115
 750,183 Sullivan Street,183 Sullivan St,Ne York, NY 10012
 751,550 Grant Street,550 Grant St,Oceanside, CA 92054
@@ -671,11 +671,11 @@ cva,name,street,city,state and zip
 787,Post House,324 Post Ave,Westbury, NY 11590
 788,46 East 91 Street,46 E 91 St,New York, NY 10128
 789,Casa Feliz,3707 Mount Rainier St - Room 1,Dallas, TX 75211
-790,Casa Feliz,3707 Mount Ranier St, Room 2,Dallas, TX 75211
+790,Casa Feliz,"3707 Mount Ranier St, Room 2",Dallas, TX 75211
 791,Oxon Run Manor,218 Wayne Pl SE,Washington, DC 20032
-792,Woodlake Villas,720 S Conway Rd, Room 1,Orlando, FL 32807
+792,Woodlake Villas,"720 S Conway Rd, Room 1",Orlando, FL 32807
 793,Legend Oaks,4714 N Habana Ave,Tampa, FL 33614
-794,Woodlake Villas,720 So Conway Rd, Room 2,Orlando, FL 32807
+794,Woodlake Villas,"720 So Conway Rd, Room 2",Orlando, FL 32807
 795,Atlantic Gardens,525-541 Atlantic Ave,Brooklyn, NY 11217
 796,JAM 3 PROPERTY,106 LOCUST HILL AVE,YONKERS, NY 10701
 797,Oxon Run Manor,218 Mississippi Ave SE,Washington, DC 20032
@@ -766,8 +766,8 @@ cva,name,street,city,state and zip
 902,Parkview Apts,651 Blvd W,Pelham, NY 10803
 903,Bella Vista Manor Condo,2320 Linwood Ave,Fort Lee, NJ 07024
 904,Graduate Gardens,3424 Tulane Dr,Hyattsville, MD 20738
-905,Lakeview Towers at Belmar - Loc 11, Bldg 3AA,600 S Clubhouse,Lakewood, CO 80214
-906,Lakeview Towers at Belmar - Loc 20, Bldg 5AA,600 S Clubhouse,Lakewood, CO 80214
+905,"Lakeview Towers at Belmar - Loc 11, Bldg 3AA",600 S Clubhouse,Lakewood, CO 80214
+906,"Lakeview Towers at Belmar - Loc 20, Bldg 5AA",600 S Clubhouse,Lakewood, CO 80214
 907,Waterfront Phase II Apts - Bldg 16,10555 W Jewell Ave,Lakewood, CO 80232
 908,Waterfront Phase II Apt - Bldg 26,10555 W Jewell Ave,Lakewood, CO 80232
 909,Waterfront Phase I Apt - Bldg 3,10555 W Jewell Ave,Lakewood, CO 80232
@@ -845,8 +845,8 @@ cva,name,street,city,state and zip
 987,Prentiss Creek Apts - Bldg 20,2215 Prentiss Dr - Bldg 20,Downers Grove, IL 60516
 988,Century Ridge Apts,89 Century Ave No,Maplewood, MN 55119
 989,Willow Wood Townhomes,10850 So Shore Dr,Plymouth, MN 55441
-990,Lakeview Towers at Belmar - Bldg 1, 5th Floor,678 S Reed St - Bldg 1, 5th Floor,Lakewood, CO 80226
-991,Lakeview Towers at Belmar - Bldg 2, 3rd Floor,679 S Reed St - Bldg 2, 3rd Floor,Lakewood, CO 80226
+990,"Lakeview Towers at Belmar - Bldg 1, 5th Floor","678 S Reed St - Bldg 1, 5th Floor",Lakewood, CO 80226
+991,"Lakeview Towers at Belmar - Bldg 2, 3rd Floor","679 S Reed St - Bldg 2, 3rd Floor",Lakewood, CO 80226
 992,Eastlake Woods,1020 Thicket Court,Columbus, IN 47201
 993,Parkview Apts,1334 Memorial La,Huntington, IN 46750
 994,Timbercroft Townhomes,67 Timbergrove,Owings Mills, MD 21117
@@ -1084,12 +1084,12 @@ cva,name,street,city,state and zip
 1256,Grays Landing,1910 Aspen Dr,Hudson, WI 54016
 1257,Grays Landing,1920 Aspen Dr,Hudson, WI 54016
 1258,Cedar Ridge,1401 Namekagon St,Hudson, WI 54016
-1259,Valley Creek Apts,1525 Parkwood Dr, 2nd Flr,Woodbury, MN 55125
-1260,Valley Creek Apts,1550 Parkwood Dr, 2nd Floor,Woodbury, MN 55125
-1261,Valley Creek Apts,1687 Century Circle, 2nd Flr,Woodbury, MN 55125
-1262,Valley Creek Apts,1671 Century Circle, 2nd Flr,Woodbury, MN 55125
-1263,Valley Creek Apts,1701 Century Circle, 2nd Flr,Woodbury, MN 55125
-1264,Valley Creek Apts,1717 Century Circle, 2nd Flr,Woodbury, MN 55125
+1259,Valley Creek Apts,"1525 Parkwood Dr, 2nd Flr",Woodbury, MN 55125
+1260,Valley Creek Apts,"1550 Parkwood Dr, 2nd Floor",Woodbury, MN 55125
+1261,Valley Creek Apts,"1687 Century Circle, 2nd Flr",Woodbury, MN 55125
+1262,Valley Creek Apts,"1671 Century Circle, 2nd Flr",Woodbury, MN 55125
+1263,Valley Creek Apts,"1701 Century Circle, 2nd Flr",Woodbury, MN 55125
+1264,Valley Creek Apts,"1717 Century Circle, 2nd Flr",Woodbury, MN 55125
 1265,306 37th Street,306 37 St,Washington, DC 20019
 1266,Summit House Condo,1700 SW 16 Ct,Gainesville, FL 32608
 1267,Haase Towers,116 E Gilman St,Madison, WI 53703
