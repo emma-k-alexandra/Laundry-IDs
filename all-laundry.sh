@@ -7,7 +7,7 @@ END=$((START + NUMBER_OF_IDS_TO_SCRAPE))
 LOG_FILENAME="./output/all_laundry_${START}_to_${END}.log"
 
 ELECTRON_ENABLE_LOGGING=1 npx cypress run \
-    --spec 'cypress/integration/all.laundry.spec.js' \
+    --spec 'cypress/e2e/all.laundry.cy.js' \
     --env START=$START,NUMBER_OF_IDS_TO_SCRAPE=$NUMBER_OF_IDS_TO_SCRAPE \
     > $LOG_FILENAME 2>&1
 

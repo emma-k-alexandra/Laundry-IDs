@@ -10,7 +10,7 @@ ELECTRON_ENABLE_LOGGING=1 \
 CYPRESS_START=$START \
 CYPRESS_NUMBER_OF_IDS_TO_SCRAPE=$NUMBER_OF_IDS_TO_SCRAPE \
     npx cypress run \
-        --spec 'cypress/integration/csc.service.works.spec.js' \
+        --spec 'cypress/e2e/csc.service.works.cy.js' \
     > $LOG_FILENAME 2>&1
 
 yarn parse:csc-service-works $LOG_FILENAME
