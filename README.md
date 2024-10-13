@@ -25,7 +25,7 @@ yarn csc-service-works
 This will scrape CSC Service Works for the first 10,000 CVA IDs. To scrape for more IDs run
 
 ```zsh
-yard csc-service-works 10001
+yarn csc-service-works 10001
 ```
 
 Replacing `10001` with the CVA ID you'd like to start scraping at.
